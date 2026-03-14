@@ -38,9 +38,9 @@ I’m currently focused on expanding my skills in Data Science, where I’ve gai
 ---
 
 ## 📊 GitHub Stats
-![Zubair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Zubair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zubairkamran69&show_icons=true&theme=radical)
 
-![Snake Graph](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake Graph](https://github.com/zubairkamran69/zubairkamran69/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -50,4 +50,4 @@ I’m currently focused on expanding my skills in Data Science, where I’ve gai
 ---
 
 ## 👇 Visitor Count
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=zubairkamran69&color=blue)
