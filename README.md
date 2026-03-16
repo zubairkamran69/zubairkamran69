@@ -11,12 +11,12 @@ I enjoy working with data, building intelligent systems, and automating workflow
 
 💡 Areas I'm currently exploring:
 
-▪ Python for Data Scientist 
-▪ Machine Learning fundamentals  
-▪ Data Visualization techniques  
-▪ Automation using n8n  
-▪ Backend APIs using FastAPI  
-▪ Practicing problem solving on LeetCode  
+- 🐍 **Python for Data Science**  
+- 🤖 **Machine Learning Fundamentals**  
+- 📊 **Data Visualization Techniques**  
+- ⚙️ **Automation using n8n**  
+- 🚀 **Backend APIs using FastAPI**  
+- 🧩 **Practicing Problem Solving on LeetCode**
 
 My goal is to grow as a **Data Scientist and AI/ML Engineer** while building useful projects.
 
