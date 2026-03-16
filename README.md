@@ -4,10 +4,11 @@
 I'm currently focused on building my skills in **Data Science, Machine Learning, and Automation**.  
 I enjoy working with data, building intelligent systems, and automating workflows.
 
-🧮 NumPy, Pandas for data manipulation
-📊 Matplotlib, Seaborn for data visualization
-🤖 Basic understanding of Scikit-Learn and machine learning workflows
-🔍 Exploring feature engineering and core ML algorithms
+- 🧮 **NumPy, Pandas** for data manipulation  
+- 📊 **Matplotlib, Seaborn** for data visualization  
+- 🤖 Basic understanding of **Scikit-Learn** and machine learning workflows  
+- 🔍 Exploring **feature engineering** and core **ML algorithms**
+
 💡 Areas I'm currently exploring:
 
 ▪ Python for Data Scientist 
