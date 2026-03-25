@@ -1,4 +1,4 @@
-<h2>👋 Hi, I'm Muhammad Zubair Kamran</h2>
+<h2> Hi, I'm Muhammad Zubair Kamran</h2>
 
 ### 📌 About Me
 I'm currently focused on building my skills in **Data Science, Machine Learning, and Automation**.  
