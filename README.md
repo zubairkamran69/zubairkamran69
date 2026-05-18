@@ -61,7 +61,7 @@ My goal is to grow as a **Data Scientist and AI/ML Engineer** while building use
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=zubairkamran69&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
