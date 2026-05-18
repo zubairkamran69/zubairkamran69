@@ -69,7 +69,7 @@ My goal is to grow as a **Data Scientist and AI/ML Engineer** while building use
 
 ### 💻 Most Used Languages
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairkamran69&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -77,7 +77,7 @@ My goal is to grow as a **Data Scientist and AI/ML Engineer** while building use
 
 ### 🔥 GitHub Streak
 
-<p align="center">
+<p >
   <img src="https://streak-stats.demolab.com?user=zubairkamran69&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -85,6 +85,6 @@ My goal is to grow as a **Data Scientist and AI/ML Engineer** while building use
 
 ### 💭 Random Dev Quote
 
-<p align="center">
+<p >
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
