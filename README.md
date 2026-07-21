@@ -60,51 +60,6 @@ I'm **Muhammad Zubair Kamran**, a Software Engineering student passionate about 
 Rather than just writing code, I enjoy designing systems that are scalable, maintainable, and capable of automating repetitive work.
 
 Currently I'm focused on improving my problem-solving skills through daily DSA practice while expanding my knowledge in Artificial Intelligence, Machine Learning, Backend Development, and Data Science.
-
----
-
-## 🎯 Current Focus
-
-- 🧠 Machine Learning
-- 📊 Data Science
-- 🐍 Python Development
-- ⚡ FastAPI
-- 🤖 AI Automation
-- 📚 Daily DSA Practice
-- ☁️ Backend Engineering
-
----
-
-## 💡 What I Believe
-
-> **Consistency beats intensity.**
->
-> Small improvements every day eventually build extraordinary engineers.
-
----
-
-## 📬 Contact
-
-📧 **Email**
-
-```
-zubairkamran.dev@gmail.com
-```
-
-🌍 **GitHub**
-
-```
-github.com/zubairkamran69
-```
-
-🧩 **LeetCode**
-
-```
-leetcode.com/u/Zubair_kamran
-```
-
-</td>
-
 </tr>
 </table>
 
