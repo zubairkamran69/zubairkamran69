@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Engineer+%7C+Data+Scientist;Python+%7C+NumPy+%7C+Pandas+%7C+Automation;I+love+automating+everything+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+### ✨ "Turning data into decisions — and ideas into automated systems." ✨
 
 </div>
 
 <br/>
 
-<!-- ================= HANGING ID CARD ================= -->
+<!-- ================= ID CARD ================= -->
 <div align="center">
 
 <sub>▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</sub><br/>
 <sub>┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔘&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃</sub>
 
-<table width="640">
+</div>
+
+<table width="100%" style="border:3px solid #36BCF7;border-radius:20px;">
 <tr>
-<td align="center" style="border:3px solid #36BCF7;border-radius:20px;padding:24px;">
+<td width="35%" align="center" valign="top" style="padding:24px;">
 
 <img src="assets/profile.png" width="170" style="border-radius:14px;border:3px solid #36BCF7;" alt="Zubair Kamran"/>
 
-<h2>🪪 Zubair Kamran</h2>
+<h3>🪪 Zubair Kamran</h3>
 
-<img src="https://img.shields.io/badge/Software%20Engineering-0d1117?style=for-the-badge&color=36BCF7&labelColor=0d1117"/><br/>
-<img src="https://img.shields.io/badge/Full--Stack%20AI%20Engineer-0d1117?style=for-the-badge&color=8b5cf6&labelColor=0d1117"/><br/>
-<img src="https://img.shields.io/badge/Data%20Scientist-0d1117?style=for-the-badge&color=22c55e&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Full--Stack%20AI%20Engineer-0d1117?style=for-the-badge&color=8b5cf6&labelColor=0d1117"/>
 
 <br/><br/>
 
@@ -30,32 +30,31 @@
 <a href="https://kaggle.com/YOUR-LINK"><img src="https://img.shields.io/badge/-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://x.com/YOUR-LINK"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://instagram.com/YOUR-LINK"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<br/>
 <a href="https://facebook.com/YOUR-LINK"><img src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://youtube.com/@YOUR-LINK"><img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://leetcode.com/YOUR-LINK"><img src="https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://github.com/zubairkamran69"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
-</tr>
-</table>
+<td width="65%" valign="top" style="padding:24px;">
 
-</div>
-
-<br/>
-
-<!-- ================= ABOUT ME ================= -->
 ### 📌 About Me
 
-I'm **Zubair Kamran**, a Software Engineering student based in Faisalabad, Pakistan — currently becoming a **Full-Stack AI Engineer & Data Scientist**.
+**Name:** Zubair Kamran
+**Title:** Software Engineering Student · Full-Stack AI Engineer · Data Scientist
 
-- 🐍 Living inside **Python, NumPy, and Pandas** most days — turning messy data into something usable
-- ⚙️ I genuinely love automating everything — if I do a task twice, I'm already building a workflow for it
-- 🤖 Exploring ML fundamentals, NLP/LLM workflows, and feature engineering
-- 🔭 Currently deep in a **12-week Dev Fellowship** — daily DSA + software engineering practice
-- 🧠 Backend APIs with **FastAPI**, automation with **n8n**, simulation with **AnyLogic**
-- 🌱 Always shipping something — trackers, dashboards, mini-tools, side projects
+I build intelligent systems and automate the boring parts of software engineering. My days are split between **Python, NumPy, and Pandas** for data work, and **FastAPI + n8n** for turning repetitive tasks into workflows that run themselves.
+
+Right now I'm deep in a **12-week Dev Fellowship** — daily DSA, real engineering practice, and shipping something new every week. I care about clean systems, not just working ones, and I'm always exploring the ML/AI side: NLP, LLM workflows, and feature engineering.
+
+If it can be automated, I'll probably automate it before I do it a second time.
 
 📫 **Reach me:** zubairkamran.dev@gmail.com
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -88,7 +87,7 @@ I'm **Zubair Kamran**, a Software Engineering student based in Faisalabad, Pakis
 
 <br/>
 
-<!-- ================= STATS (fixed, side by side) ================= -->
+<!-- ================= STATS (hacker UI, side by side) ================= -->
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -114,19 +113,24 @@ I'm **Zubair Kamran**, a Software Engineering student based in Faisalabad, Pakis
 
 <br/>
 
-<!-- ================= QUOTE + EMOJI PANEL ================= -->
+<!-- ================= QUOTE + WHY HIRE ME ================= -->
 <table width="100%">
 <tr>
-<td width="60%" valign="middle" align="center">
+<td width="55%" valign="middle" align="center">
+
+### 💬 Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
 </td>
-<td width="40%" valign="middle" align="center" style="border:2px solid #36BCF7;border-radius:16px;">
+<td width="45%" valign="top" style="border:2px solid #36BCF7;border-radius:16px;padding:16px;">
 
-<h1>💻 🚀 🔥</h1>
-<h1>🧠 ⚡ 🐍</h1>
-<h3>Code. Automate. Repeat.</h3>
+### ⚡ Why Work With Me
+
+- 🧩 I don't just write code — I design systems that don't break
+- ⚙️ I automate first, repeat never
+- 📈 I learn in public — DSA, ML, and engineering fundamentals, daily
+- 🚀 I ship consistently, not just when it's convenient
 
 </td>
 </tr>
