@@ -1,90 +1,27 @@
-<h2> Hi, I'm Muhammad Zubair Kamran 👋</h2>
+# 💫 About Me:
+# 👋 Hi, I'm Zubair Kamran<br><br>I'm a Software Engineering student and a developer passionate about Data Science, Generative AI, and building intelligent applications.<br><br>💻 MERN Stack Developer with experience in building full-stack web applications and REST APIs.<br><br>🐍 Python is my primary language for exploring Data Science, Machine Learning, and AI.<br><br>🤖 Currently learning Generative AI and Agentic AI, with a focus on AI agents, automation, and intelligent systems.<br><br>📊 My long-term goal is to become a Data Scientist and build AI-powered solutions that solve real-world problems.<br><br>### 🚀 Currently Working On<br><br>* Data Science & Machine Learning<br>* Generative AI<br>* Agentic AI & AI Agents<br>* Python & AI Automation<br>* DSA & Problem Solving<br>* Full-Stack Web Development<br><br>### 🛠️ Tech Stack<br><br>Python • JavaScript • React • Node.js • Express.js • MongoDB • FastAPI • Git • GitHub • REST APIs • NumPy • Pandas • Matplotlib • Scikit-learn • Generative AI • Agentic AI<br><br>### 🎯 My Goal<br><br>To grow from a Full-Stack Developer into a Data Scientist and AI Engineer, combining software development, data, and AI to build useful intelligent systems.<br>
 
-### 📌 About Me
-I'm currently focused on building my skills in **Data Science, Machine Learning, AI, and Automation**.  
-I enjoy working with data, building intelligent systems, and automating workflows.
 
-- 🧮 **NumPy, Pandas** for data manipulation   
-- 📊 **Matplotlib, Seaborn** for data visualization  
-- 🤖 Basic understanding of **Scikit-Learn** and machine learning workflows  
-- 🔍 Exploring **feature engineering** and core **ML algorithms**
-- ⚙️ Learning workflow automation using **n8n**
-- 🧠 Exploring simulation modeling with **AnyLogic**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-zubair-kamran-32918735a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Muhammad Zubair Kamran) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/m_zubair_kamran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zubairkamran.dev@gmail.com) 
 
-💡 Areas I'm currently exploring:
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=zubairkamran69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=zubairkamran69&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=zubairkamran69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🐍 **Python for Data Science**  
-- 🤖 **Machine Learning Fundamentals**  
-- 📊 **Data Visualization Techniques**  
-- ⚙️ **Automation using n8n**  
-- 🚀 **Backend APIs using FastAPI**  
-- 🧩 **Practicing Problem Solving on LeetCode**
-- 🧠 **Simulation & Modeling using AnyLogic**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zubairkamran69&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-My goal is to grow as a **Data Scientist and AI/ML Engineer** while building useful real-world projects.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zubairkamran69&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=zubairkamran69&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/zubairkamran69)
-
----
-
-### 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
-![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=flat&logo=numpy)
-![Seaborn](https://img.shields.io/badge/Seaborn-lightblue?style=flat)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=flat)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-orange?style=flat&logo=scikitlearn)
-![SQL](https://img.shields.io/badge/SQL-black?style=flat&logo=mysql)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat&logo=fastapi)
-![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
-![n8n](https://img.shields.io/badge/n8n-Automation-red?style=flat)
-![AnyLogic](https://img.shields.io/badge/AnyLogic-Simulation-orange?style=flat)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=zubairkamran69&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 💻 Most Used Languages
-
-<p >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairkamran69&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p >
-  <img src="https://streak-stats.demolab.com?user=zubairkamran69&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 💭 Random Dev Quote
-
-<p >
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
